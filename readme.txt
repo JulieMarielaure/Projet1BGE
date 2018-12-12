@@ -1,4 +1,4 @@
-Héxadécimal
+﻿Héxadécimal
 
 Présentation 
 
@@ -10,3 +10,5 @@ Classiquement il utilse les neuf chiffres du système décimal et y ajoute des p
 historique 
 
 Utilisation pratique 
+
+Je fais des tests il est une heure du mat 
